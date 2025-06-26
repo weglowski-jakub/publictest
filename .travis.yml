@@ -4,7 +4,7 @@ dist: focal
 
 vm:
   create:
-    name: 100K-default-storage-i1
+    name: jakub-custom
 
 script:
   - echo "Creating custom file"
