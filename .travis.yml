@@ -4,7 +4,7 @@ dist: focal
 
 vm:
   create:
-    name: jakub-custom13
+    name: jakub-custom14
 
 script:
   - echo "Creating custom file"
